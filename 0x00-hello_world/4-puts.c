@@ -1,9 +1,11 @@
-#INCLUDE <stdio.h>
+#include <stdio.h>
 /**
-*main : this is a programme that prompt an string with the puts function
+* main - this is a programme that prompt a string with the puts function
+* Return: 0(Success)
 */
 int main(void)
 {
 puts("\"Programming is like building a multilingual puzzle");
-return(0);  
+return (0);
 }
+
