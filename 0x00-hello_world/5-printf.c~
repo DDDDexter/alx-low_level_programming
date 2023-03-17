@@ -1,0 +1,11 @@
+#include <stdio>
+/**
+* main - this programme prompt to the user a string, but with printf this time
+* Return: 0 (Success)
+*/
+int main(void)
+{
+printf("with proper grammar, but the outcome is a piece of art,\n");
+return (0);  
+}
+  
