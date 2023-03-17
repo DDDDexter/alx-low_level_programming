@@ -1,4 +1,4 @@
-#include <stdio>
+#include <stdio.h>
 /**
 *main - this programme prompt to the user a string, but with printf this time
 *Return: 0 (Success)
