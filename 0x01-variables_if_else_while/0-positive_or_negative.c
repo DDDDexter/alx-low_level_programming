@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <time.h>
-
+#include <stdlib.h>
 /**
  * main - this program prompt a number each time when runed
  * Return: Always 0 (Success)
