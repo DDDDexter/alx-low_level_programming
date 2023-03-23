@@ -1,9 +1,12 @@
 #include "main.h"
+
 /**
 * main - Test function for + or -
 * Return: 0
 */
+
 int main(void)
+
 {
 int i;
 i = 0;
